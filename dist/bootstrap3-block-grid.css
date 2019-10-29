@@ -1,8 +1,7 @@
 /* BLOCKGRID */
 [class*="block-grid-"] {
   display: block;
-  margin: -15px;
-  padding: 0 .9375rem;
+  margin: 0 -15px;
 }
 
 [class*="block-grid-"]:before,
